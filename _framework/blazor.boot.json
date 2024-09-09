@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SteelWorks",
   "resources": {
-    "hash": "sha256-QUfRv+N4Rkwj3OmEs26P87pPNiPlFnbZMEamMmnUOWY=",
+    "hash": "sha256-INdO7yZ+Z5hHCh4LeFkh3ucDPmt8MIjjjR3JrJfjtnw=",
     "jsModuleNative": {
       "dotnet.native.8.0.7.vsd2y3yaas.js": "sha256-tFsxPBbhkdn6GKNBKvCRLzrfAHdyM86odYTe0MtrwMk="
     },
@@ -33,7 +33,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-6187ynEahDlSLMBvD4vAmiLpZ3clRb5xu6rM7O8AxNo=",
       "Microsoft.JSInterop.wasm": "sha256-YAuov+N9Jt7hvJRt9QsxNvhTGrzE64Y3sfAZ6hP1Z/A=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-rhDkGvVEd5YGb2JsVk1xQC7gCF8TXNfpDfo9dGFhuyI=",
-      "SteelWorks.wasm": "sha256-3O5cQsWOfksVoD2BT/I7+CQ8oSb2+3n7nN7BCT5mR24=",
+      "SteelWorks.wasm": "sha256-eAfx+TY2rZB6l6Lvdvpnc2NTwTiHi0eJ20Hz+euLKtY=",
       "System.Collections.Concurrent.wasm": "sha256-QZJVeY1OKlQXK6UzEhUtlwU7RuoN8fI3xGVQqO/O1hI=",
       "System.Collections.wasm": "sha256-9x1oDXAZ90/9b7ddPb1Ft+HXSZOuUtcyUyXe4t5yqYI=",
       "System.ComponentModel.wasm": "sha256-TglF9Cma6UOoLFYnvaWKbPJjgEG7PgkN5biRsqmZKiQ=",
